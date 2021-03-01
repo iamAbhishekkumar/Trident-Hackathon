@@ -1,1 +1,1 @@
-CroProtect App(Trident Hackathon)
+# CroProtect App(Trident Hackathon)
